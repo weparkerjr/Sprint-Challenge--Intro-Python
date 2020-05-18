@@ -21,7 +21,7 @@ Complete the programs in the `src/` directory in any order.
 
 * `oop/`
 DONE    * `oop1.py`: class hierarchies
-    * `oop2.py`: subclassing and method overriding
+DONE    * `oop2.py`: subclassing and method overriding
 DONE    * `comp/`
                     * `comp.py`: list comprehensions
 DONE    * `cityreader/`

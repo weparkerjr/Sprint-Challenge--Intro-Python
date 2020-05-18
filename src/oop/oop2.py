@@ -11,13 +11,6 @@ class GroundVehicle():
     def drive(self):
         return "vroooom"
 
-class GroundVehicle():
-    def __init__(self, num_wheels=4):
-        self.num_wheels = num_wheels
-
-    def drive(self):
-        return 'vroooom'
-
 
 # Subclass Motorcycle from GroundVehicle.
 #
